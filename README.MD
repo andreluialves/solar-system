@@ -25,7 +25,7 @@ Você pode <a href="https://andreluialves.github.io/solar-system" target:_blank>
 
 ### 1. Clone o repositório
 ```
-git clone git@github.com:tiemifaustino/solar-system-react-project.git
+git clone git@github.com:andreluialves/solar-system.git
 ```
 
   * Entre na pasta do repositório que você acabou de clonar:
@@ -44,5 +44,5 @@ npm start
 ```
    * Visualização através da url:
 ```
-http://localhost:3000/solar-system-react-project
+http://localhost:3000/solar-system
 ```
