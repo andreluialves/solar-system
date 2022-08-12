@@ -1,4 +1,5 @@
 # Sobre:
+![imagem gif que mostra a aplicação rodando](solar-system.gif)
 Pequeno projeto desenvolvido no início do módulo Front-End da Trybe.
 
 O objetivo era criar uma lista de planetas e algumas missões espaciais. Nenhuma interação foi necessária, pois o objetivo era simplesmente exercitar os fundamentos do ReactJS.
