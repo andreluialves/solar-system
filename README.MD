@@ -1,7 +1,7 @@
-# Solar System:
+# Solar System
 ![imagem gif que mostra a aplicação rodando](solar-system.gif)
 
-## Sobre:
+## Sobre
 Projeto desenvolvido no início do módulo de Front-End do curso de Desenvolvimento Web da Trybe.
 
 O objetivo era criar uma lista de planetas e algumas missões espaciais. Nenhuma interação foi necessária, pois o objetivo era simplesmente exercitar os fundamentos do ReactJS.
@@ -15,7 +15,7 @@ Você pode <a href="https://andreluialves.github.io/solar-system" target:_blank>
 * Utilização do JSX no React
 * Uso de props e proptypes
 
-## Tecnologias utilizadas:
+## Tecnologias utilizadas
 * HTML5
 * CSS3
 * JavaScript ES6+
