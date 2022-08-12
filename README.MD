@@ -4,9 +4,13 @@
 ## Sobre
 Projeto desenvolvido no início do módulo de Front-End do curso de Desenvolvimento Web da Trybe.
 
-O objetivo era criar uma lista de planetas e algumas missões espaciais. Nenhuma interação foi necessária, pois o objetivo era simplesmente exercitar os fundamentos do ReactJS.
+Neste projeto foi desenvolvida uma aplicação em React JS que cria uma lista de planetas do Sistema Solar e algumas missões espaciais, com base em dados de uma API pública. O objetivo foi exercitar os fundamentos do React, como criação de componentes, uso de props e proptypes.
 
-Você pode <a href="https://andreluialves.github.io/solar-system" target:_blank>clicar aqui</a> para verificar o estado atual do aplicativo.
+### *Status do projeto:*
+Este projeto encontra-se finalizado, não pretendo desenvolver novas implementações.
+
+### *Link do deploy*
+Você pode [**clicar aqui**](https://andreluialves.github.io/solar-system) para verificar o estado atual da aplicação.
 
 ## Habilidades Desenvolvidas
 
