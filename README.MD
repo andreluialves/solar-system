@@ -21,7 +21,7 @@ Você pode <a href="https://andreluialves.github.io/solar-system" target:_blank>
 * JavaScript ES6+
 * React
 
-## Instalando Dependências
+## Executando a aplicação
 
 ### 1. Clone o repositório
 ```
