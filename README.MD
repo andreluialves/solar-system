@@ -20,3 +20,29 @@ Você pode <a href="https://andreluialves.github.io/solar-system" target:_blank>
 * CSS3
 * JavaScript ES6+
 * React
+
+## Instalando Dependências
+
+### 1. Clone o repositório
+```
+git clone git@github.com:tiemifaustino/solar-system-react-project.git
+```
+
+  * Entre na pasta do repositório que você acabou de clonar:
+```
+cd solar-system
+```
+
+### 2. Instale as dependências:
+```
+npm install
+```
+
+### 3. Executar o comando para abrir a visualização no navegador
+```
+npm start
+```
+   * Visualização através da url:
+```
+http://localhost:3000/solar-system-react-project
+```
